@@ -61,4 +61,14 @@ class MyVector
 			System.out.print(this.elementData[i]+" ");
 		}
 	}
+	
+	public int size()
+	{
+		return this.elementCount;
+	}
+	
+	public int capacity()
+	{
+		return this.elementData.length;
+	}
 }
