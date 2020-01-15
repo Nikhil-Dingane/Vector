@@ -1,0 +1,8 @@
+admin1@admin1-Lenovo-G560:~/demo$ java TestVector
+Required time for insertion in inbuilt vector is : 48106297 ns
+current Size of inbuilt vector is : 1000000
+current capacity of inbuilt vector is : 1310720
+Required time for insertion in my vector is : 36287534 ns
+current Size of my vector is : 1000000
+current capacity of my vector is : 1048576
+
